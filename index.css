@@ -1,0 +1,85 @@
+* {
+	margin: 0;
+}
+
+header {
+	height: 30px;
+	padding: 30px;
+	border-bottom: 1px solid black;
+	margin-left: 100px;
+}
+
+.img-1 {
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	padding: 5px;
+	margin-left: 0.7vw;
+	margin-top: 0px;
+}
+
+.b-1 {
+	font-size: 30px;
+	margin-left: 6vw;
+}
+
+.b-2 {
+	font-size: 30px;
+	margin-left: 10.7vw;
+}
+
+.a-1 {
+	text-decoration: none;
+	color: #000000;	
+}
+
+/*  Work with header's div  */
+
+.div-0 {
+	float: left;
+	width: 100px;
+	height: 90px;
+	border-bottom: 1px solid black;
+}
+
+.div-1 {
+	float: left;
+}
+
+.div-2 {
+	float: left;
+}
+
+.div-3 {
+	float: left;
+}
+
+.div-4 {
+	float: left;
+}
+
+.div-1:hover {
+	position: relative;
+	margin-top: 2px;
+}
+
+.div-2:hover {
+	position: relative;
+	margin-top: 2px;
+}
+
+.div-3:hover {
+	position: relative;
+	margin-top: 2px;
+}
+
+.div-4:hover {
+	position: relative;
+	margin-top: 2px;
+}
+
+.div-5:hover {
+	position: relative;
+	margin-top: 2px;
+}
+
