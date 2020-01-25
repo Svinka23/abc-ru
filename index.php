@@ -17,5 +17,6 @@
 		<div class='divUnderHeader'>
 			
 		</div>
+		<?php echo 'd.m.Y.h:m'; ?>
 	</body>
 </html>  
